@@ -1,4 +1,4 @@
 echo "[General]"
-CONFIG_FILE_URL = $CONFIGFILEURL
+CONFIG_FILE = $CONFIGFILE
 python3 clever.py &
 python3 -m bot
